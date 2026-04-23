@@ -1,0 +1,12 @@
+{
+  "name": "Alex Dev",
+  "email": "alex@github.com",
+  "password": "securepassword123",
+  "addresses": [
+    {
+      "street": "Calle Principal 123",
+      "city": "Ciudad Codigo",
+      "zip_code": "10001"
+    }
+  ]
+}
